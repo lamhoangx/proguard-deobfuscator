@@ -2,7 +2,8 @@
 A script to support to quickly `de-obfuscates` stack traces when using ProGuard to minify code.
 
 ```txt
-    ProGuard is an open source command-line tool that shrinks, optimizes and obfuscates Java code. It is able to optimize bytecode as well as detect and remove unused instructions. ProGuard is open source software.
+    ProGuard is an open source command-line tool that shrinks, optimizes and obfuscates Java code. 
+    It is able to optimize bytecode as well as detect and remove unused instructions. ProGuard is open source software.
     Proguard was developed by Eric P.F. Lafortune.
     - Wikipedia
 ```
@@ -29,6 +30,12 @@ Let a speech dating.<br>
 All you need is run script, copy stacktrace and paste into the commandline. This my show.<br>
 
 <img src="img/datingwithbug.png" height="600" alt="Image"/>
+
+## References
+https://en.wikipedia.org/wiki/ProGuard_(software)<br>
+https://www.guardsquare.com/en/products/proguard/manual/introduction<br>
+https://www.guardsquare.com/en/products/proguard/manual/retrace<br>
+https://medium.com/techwasti/de-obfuscate-stack-traces-6e19a52a3379<br>
 
 ## 
 Happy dating with bugs!
