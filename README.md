@@ -1,5 +1,5 @@
 ## What is this?
-A script to support to quickly `de-obfuscates` stack traces when using ProGuard to minify code.
+A script support to quickly `de-obfuscates` stack traces when using ProGuard to minify code.
 
 ```txt
     ProGuard is an open source command-line tool that shrinks, optimizes and obfuscates Java code. 
@@ -23,8 +23,8 @@ It's ok, we have Retrace, what is a companion tool for ProGuard that `de-obfusca
 ```
 
 ## Main actor
-`unmap.sh` is script `de-obfuscates' stacktrace with deal is supporting blank lines and unrecognized lines.
-If no `mapping_file' is specified, the input is `mapping.txt` will be using.<br>
+`unmap.sh` is script de-obfuscates stacktrace with deal is supporting blank lines and unrecognized lines.
+If no `mapping_file` is specified, the input is `mapping.txt` will be using.<br>
 When dating with bug, you just want to instantly clear the stacktrace.<br>
 Let a speech dating.<br>
 All you need is run script, copy stacktrace and paste into the commandline. This my show.<br>
